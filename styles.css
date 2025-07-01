@@ -1,0 +1,156 @@
+
+.bg-custom{background-color:black;}
+/* .custom-link{
+  color:white;
+  text-decoration:none;
+} */
+.custom-nav-item{
+  margin-top:41px;
+}
+.form-custom{
+  /* background-color: aqua; */
+  margin-bottom:20px;
+}
+.shafe{
+  margin-top: 20px;
+}
+.custom-product{
+  width:270px;
+  height: 360px;
+  margin-right:15px;
+  margin-bottom:4px;
+}
+@media screen and (max-width: 1200px){
+  .custom-product{
+    width: 230px;
+    margin-right:10px;
+  }
+}
+@media screen and (max-width: 992px){
+  .custom-product{
+    width: 170px;
+    margin-right:5px;
+    height: 370px;
+  }
+}
+@media screen and (max-width: 1496px){
+  .custom-product{
+    width: 310px;
+    margin-right:20px;
+    height: 390px;
+  }
+}
+@media screen and (max-width: 1400px){
+  .custom-product{
+    width: 270px;
+    margin-right:15px;
+    height: 390px;
+  }
+}
+@media screen and (max-width: 1200px){
+  .custom-product{
+    width: 230px;
+    margin-right:10px;
+    height: 390px;
+  }
+}
+@media screen and (max-width: 992px){
+  .custom-product{
+    width: 170px;
+    margin-right:5px;
+    height: 350px;
+    
+  }
+  .custom-text{
+    font-size: 16px;
+  }
+  .custom-btn{
+    padding: 6px;
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 576px){
+  .custom-product{
+    width: 182px;
+  }
+}
+@media screen and (max-width: 560px){
+  .custom-product{
+    width: 180px;
+  }
+}
+@media screen and (max-width: 555px){
+  .custom-product{
+    width: 175px;
+  }
+}
+@media screen and (max-width: 540px){
+  .custom-product{
+    width: 170px;
+  }
+}
+@media screen and (max-width: 524px){
+  .custom-product{
+    width: 163px;
+  }
+}
+@media screen and (max-width: 504px){
+  .custom-product{
+    width: 158px;
+    height: 340px;
+  }
+}
+@media screen and (max-width: 488px){
+  .custom-product{
+    width: 140px;
+    height: 340px;
+  }
+}
+@media screen and (max-width: 435px){
+  .custom-product{
+    width: 210px;
+    height: 340px;
+  }
+}
+@media screen and (max-width: 430px){
+  .custom-product{
+    width: 200px;
+    height: 330px;
+  }
+}
+@media screen and (max-width: 410px){
+  .custom-product{
+    width: 190px;
+    height: 340px;
+  }
+}
+@media screen and (max-width: 390px){
+  .custom-product{
+    width: 185px;
+    height: 340px;
+  }
+}
+@media screen and (max-width: 380px){
+  .custom-product{
+    width: 180px;
+    height: 330px;
+  }
+}
+@media screen and (max-width: 370px){
+  .custom-product{
+    width: 175px;
+    height: 340px;
+  }
+}
+@media screen and (max-width: 360px){
+  .custom-product{
+    width: 170px;
+    height: 340px;
+  }
+}
+@media screen and (max-width: 350px){
+  .custom-product{
+    width: 350px;
+    height: 350px;
+  }
+}
