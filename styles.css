@@ -8,13 +8,14 @@
   padding-top: 32px;
 }
 
-.five{
+/* .five{
   color:green;
 }
 .green{color: red;
-}
+} */
 
-.custom-products{
+
+.card.custom-products{
   margin: 5px;
-  width: 100%
+  width: 210px;
 }
