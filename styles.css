@@ -19,6 +19,9 @@
   margin: 5px;
   width: 210px;
 }
+.footer-section{
+  height: 300px;
+}
 
 @media screen and (max-width: 1400px) {
   .card.custom-products{
