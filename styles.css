@@ -145,3 +145,26 @@
   font-size: 16px;
 }
 }
+@media screen and (max-width: 368px) {
+  .card.custom-products{
+  width: 170px;
+}
+}
+@media screen and (max-width: 344px) {
+  .card.custom-products{
+  width: 165px;
+}
+}
+@media screen and (max-width: 334px) {
+  .card.custom-products{
+  width: 160px;
+}
+.custom-text{
+  font-size: 14px;
+}
+}
+@media screen and (max-width: 324px) {
+  .card.custom-products{
+  width: 155px;
+}
+}
